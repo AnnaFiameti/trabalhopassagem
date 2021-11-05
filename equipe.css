@@ -1,0 +1,32 @@
+body{ 
+    background-color: steelblue;
+    color: black;
+    font-style: oblique;
+    font: 100%;
+}
+.title{
+    background-color: white ;
+    margin: 50px;
+    font-size: 55px;
+    padding: 25px;
+}
+h1{
+    text-align: center;
+    font-size: 25px;
+    font-style: oblique;
+}
+h2{
+    text-align: center;
+    font-size: 25px;
+    font-style: oblique;
+}
+img{
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+ul{
+    font-size: 25px;
+    font-style: oblique;
+    text-align: center;
+}
+
